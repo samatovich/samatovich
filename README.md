@@ -1,4 +1,4 @@
-### Hi there 👋 I am Samatovich..
+### Hi there 👋 I am Samatovich.. ⚡
 
 <!--
 **samatovich/samatovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
